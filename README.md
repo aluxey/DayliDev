@@ -24,33 +24,14 @@ This repository contains:
 
 ```
 📂 Daily-Code-Challenges
-├── 📂 Day-01
+├── 📂 Php
 │   ├── README.md         # Problem description
-│   ├── solution.php      # PHP solution
-│   └── solution.js       # JavaScript solution
-├── 📂 Day-02
+│   ├── exerice.php      # PHP exerice
+├── 📂 JavaScript
 │   ├── README.md         # Problem description
-│   ├── solution.php      # PHP solution
-│   └── solution.js       # JavaScript solution
+│   ├── exerice.js      # JS exerice
 └── ...
 ```
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/daily-code-challenges.git
-   ```
-2. Navigate to the specific day's folder to view the challenge and solution.
-3. Run the code locally:
-   - For PHP:
-     ```bash
-     php solution.php
-     ```
-   - For JavaScript:
-     ```bash
-     node solution.js
-     ```
 
 ## Daily Commit Tracker
 
